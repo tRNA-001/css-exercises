@@ -3,6 +3,10 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
+.odd-num.third {
+    font-size: 24px;
+}
+
 #second-elem {
     color: RGB(0, 0, 255);
     font-size: 36px
